@@ -91,7 +91,8 @@ public class Movement : MonoBehaviour
 
 
 
-<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/8c669e74-737d-4083-9049-53744c7dbaa5" />
+<img width="1017" height="508" alt="Screenshot 2026-09-19 010702" src="https://github.com/user-attachments/assets/f750f267-7988-4362-a478-060aa2af54b6" />
+
 
 
 ## Result:
